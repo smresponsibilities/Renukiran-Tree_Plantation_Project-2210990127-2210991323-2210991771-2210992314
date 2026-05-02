@@ -11,7 +11,7 @@ Renukiran - Tree Plantation Project
 Copyright Project (Submitted in partial fulfilment of the requirements for the award of degree of BACHELOR OF ENGINEERING In COMPUTER SCIENCE AND ENGINEERING)
 
 **Team Details:**
-* **Mentor:** Dr. Anshu Singla (Prof.)
+* **Mentor:** Dr. Anshu Singla (Professor)
 * **Students:**
     * Anmol Sharma (2210990127)
     * Anushka Malik (2210991323)
