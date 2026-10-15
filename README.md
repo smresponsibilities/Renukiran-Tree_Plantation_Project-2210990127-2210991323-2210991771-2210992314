@@ -1,14 +1,16 @@
 # Renukiran — Tree Plantation & Ecological Tracking Platform
 
+[![Live Platform](https://img.shields.io/badge/Live_App-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://renukiranfoundation.vercel.app/)
+[![Portfolio Architecture](https://img.shields.io/badge/Architecture-shivammahajan.com-ff5d01?style=for-the-badge)](https://shivammahajan.com/projects/)
 [![Next.js](https://img.shields.io/badge/Framework-Next.js%2014-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/Library-React%2018-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
-[![Deployment](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://renukiranfoundation.vercel.app/)
 [![Academic](https://img.shields.io/badge/Chitkara_University-B.E._CSE_Capstone-green?style=for-the-badge)](https://shivammahajan.com/)
 
 An ecological sustainability web platform designed for the **Renukiran Foundation** to coordinate tree plantation drives, verify seedling survival rates, track geographic afforestation sites, and educate communities on urban carbon sequestration. Developed as an academic capstone and copyright-registered software project.
 
-Live Platform: [Renukiran Foundation on Vercel](https://renukiranfoundation.vercel.app/) · [Portfolio](https://shivammahajan.com/)
+* **Live Platform:** **[https://renukiranfoundation.vercel.app/](https://renukiranfoundation.vercel.app/)**
+* **Engineering Portfolio:** **[https://shivammahajan.com/projects/](https://shivammahajan.com/projects/)**
 
 ---
 
